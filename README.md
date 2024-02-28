@@ -1,6 +1,6 @@
-## 👋 Hi, I’m @devopscoder.io
+## 👋 Hi, I’m @devopscoder.io,
 
-I'm an Azure Cloud Architect based in the U.K., passionate about tech, coding, music and anime.
+An Azure Cloud Architect based in the U.K., passionate about tech, coding, music and anime.
 
 
 
