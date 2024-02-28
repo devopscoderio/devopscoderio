@@ -5,7 +5,8 @@ I'm an Azure Cloud Architect based in the U.K., passionate about tech, coding, m
 
 
 ### 📚 Books:
-:book: Currently Reading - The Power of Habit [Book](https://www.amazon.co.uk/Power-Habit-Why-What-Change/dp/1847946240)/[Audible](https://www.audible.co.uk/pd/The-Power-of-Habit-Audiobook/B007AK4V62?ipRedirectOverride=true&overrideBaseCountry=true&bp_o=true&source_code=PS1PP30DTRIAL453122123006C&gclid=CjwKCAiAzJOtBhALEiwAtwj8tl82uKSaLuzsXG669qqZxX54aBLKA0bA0w7QqCCTfa2p8MD9IP3s1hoCNMkQAvD_BwE&gclsrc=aw.ds)
+:book: Currently Reading:
+- `The Power of Habit` [Book](https://www.amazon.co.uk/Power-Habit-Why-What-Change/dp/1847946240)/[Audible](https://www.audible.co.uk/pd/The-Power-of-Habit-Audiobook/B007AK4V62?ipRedirectOverride=true&overrideBaseCountry=true&bp_o=true&source_code=PS1PP30DTRIAL453122123006C&gclid=CjwKCAiAzJOtBhALEiwAtwj8tl82uKSaLuzsXG669qqZxX54aBLKA0bA0w7QqCCTfa2p8MD9IP3s1hoCNMkQAvD_BwE&gclsrc=aw.ds)
 
 <details>
   <summary>Book Backlog</summary>
