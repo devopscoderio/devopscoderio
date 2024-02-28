@@ -1,5 +1,57 @@
-- 👋 Hi, I’m @devopscoderio
-- :book: Currently Reading - The Power of Habit [Book](https://www.amazon.co.uk/Power-Habit-Why-What-Change/dp/1847946240)/[Audible](https://www.audible.co.uk/pd/The-Power-of-Habit-Audiobook/B007AK4V62?ipRedirectOverride=true&overrideBaseCountry=true&bp_o=true&source_code=PS1PP30DTRIAL453122123006C&gclid=CjwKCAiAzJOtBhALEiwAtwj8tl82uKSaLuzsXG669qqZxX54aBLKA0bA0w7QqCCTfa2p8MD9IP3s1hoCNMkQAvD_BwE&gclsrc=aw.ds)
+## 👋 Hi, I’m @devopscoder.io
+
+I'm an Azure Cloud Architect based in the U.K., passionate about tech, coding, music and anime.
+
+
+
+### 📚 Books:
+:book: Currently Reading - The Power of Habit [Book](https://www.amazon.co.uk/Power-Habit-Why-What-Change/dp/1847946240)/[Audible](https://www.audible.co.uk/pd/The-Power-of-Habit-Audiobook/B007AK4V62?ipRedirectOverride=true&overrideBaseCountry=true&bp_o=true&source_code=PS1PP30DTRIAL453122123006C&gclid=CjwKCAiAzJOtBhALEiwAtwj8tl82uKSaLuzsXG669qqZxX54aBLKA0bA0w7QqCCTfa2p8MD9IP3s1hoCNMkQAvD_BwE&gclsrc=aw.ds)
+
+<details>
+  <summary>Book Backlog</summary>
+<!---
+  - [Book Title 1](link)
+  - [Book Title 2](link)
+--->
+</details>
+
+### 🌱 I'm currently learning/working towards:
+- AZ-104: Microsoft Azure Administrator
+- AZ-305: Designing Microsoft Azure Infrastructure Solutions
+<!---
+- [Technology/Framework/Tool]
+- [Another Technology/Framework/Tool]
+--->
+You can check out my 2024 study and learning goals on my notion page,
+
+[![Notion](https://img.shields.io/badge/study%20goals%202024-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://devopscoder.notion.site/Study-Courses-Certifications-fbea9eea11e64f75824104e1b89a8eb3)
+
+
+
+### 🚀 Goals for this year:
+- Contribute to more open-source projects
+- Pass all booked Microsoft Certification
+- Pass the OpenJS Node.js Services Developer **This would be a huge personal achievement**
+- Get followers to future blog posts.
+  
+  
+ <!--- 
+- Learn [Specific Skill/Technology]
+- Build [Project/Idea]
+--->
+
+<!---
+### 💬 Ask me about:
+
+- [Area of Expertise/Interest]
+- [Another Area of Expertise/Interest]
+--->
+### 📫 How to reach me: 
+| [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://devopscoderio.medium.com/) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devopscoder.io/) | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devopscoderio) |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+### 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devopscoderio&show_icons=true&theme=dark&theme=transparent)
 <!---
 - :books: Outstadning books:
 
@@ -19,6 +71,58 @@
 <!---
 devopscoderio/devopscoderio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+### 👋 Hi, I’m [@devopscoder-io](https://github.com/devopscoder-io)
+
+#### :book: Currently Reading:
+- [The Power of Habit](https://www.amazon.co.uk/Power-Habit-Why-What-Change/dp/1847946240) ([Audible](https://www.audible.co.uk/pd/The-Power-of-Habit-Audiobook/B007AK4V62?ipRedirectOverride=true&overrideBaseCountry=true&bp_o=true&source_code=PS1PP30DTRIAL453122123006C&gclid=CjwKCAiAzJOtBhALEiwAtwj8tl82uKSaLuzsXG669qqZxX54aBLKA0bA0w7QqCCTfa2p8MD9IP3s1hoCNMkQAvD_BwE&gclsrc=aw.ds))
+
+#### 📚 Book Backlogs:
+<details>
+  <summary>Fiction</summary>
+  
+  - [Book Title 1](link)
+  - [Book Title 2](link)
+</details>
+
+<details>
+  <summary>Non-Fiction</summary>
+  
+  - [Book Title 3](link)
+  - [Book Title 4](link)
+</details>
+
+#### 🌱 I'm currently learning:
+- [Technology/Framework/Tool]
+- [Another Technology/Framework/Tool]
+
+#### 👨‍💻 What I'm working on:
+- [Project Name/Description]
+- [Project Name/Description]
+
+#### 🚀 Goals for this year:
+- Contribute to more open source projects
+- Learn [Specific Skill/Technology]
+- Build [Project/Idea]
+
+#### 💬 Ask me about:
+- [Area of Expertise/Interest]
+- [Another Area of Expertise/Interest]
+
+#### 📫 How to reach me:
+- ![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white) [Your Medium Profile](https://medium.com/yourprofile)
+- ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white) [Your Instagram Profile](https://www.instagram.com/yourprofile/)
+- ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white) [Your Twitter Profile](https://twitter.com/yourprofile)
+
+#### 😄 Pronouns:
+- [Your Pronouns]
+
+#### ⚡ Fun fact:
+- [Interesting Fact About Yourself]
+
+#### 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 
 ### Hey, I'm Miraya 👋🏽  
 
