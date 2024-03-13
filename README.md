@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @devopscoder.io,
 
-An Azure Cloud Architect based in the U.K., passionate about tech, coding, music and anime.
+An Azure Cloud Architect who's passionate about tech, coding, music, and anime.
 
 
 
@@ -48,8 +48,8 @@ You can check out my 2024 study and learning goals below,
 - [Another Area of Expertise/Interest]
 --->
 ### 📫 How to reach me: 
-| [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://devopscoderio.medium.com/) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devopscoder.io/) | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devopscoderio) |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://devopscoderio.medium.com/) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devopscoder.io/) | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devopscoderio) | [![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)]([YOUR_SPOTIFY_LINK](https://open.spotify.com/playlist/6EHEeLtwBwO3VdQu06oddJ?si=5a6d1d7c14b44fc4)) |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ### 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devopscoderio&show_icons=true&theme=dark&theme=transparent)
