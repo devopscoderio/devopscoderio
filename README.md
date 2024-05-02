@@ -19,6 +19,8 @@ An Azure Cloud Architect who's passionate about tech, coding, music, and anime.
 ### 🌱 I'm currently learning/working towards:
 - AZ-104: Microsoft Azure Administrator
 - AZ-305: Designing Microsoft Azure Infrastructure Solutions
+- Prometheus (PCA)
+- AI900
 <!---
 - [Technology/Framework/Tool]
 - [Another Technology/Framework/Tool]
