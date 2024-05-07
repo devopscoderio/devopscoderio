@@ -20,7 +20,7 @@ An Azure Cloud Architect who's passionate about tech, coding, music, and anime.
 - AZ-104: Microsoft Azure Administrator
 - AZ-305: Designing Microsoft Azure Infrastructure Solutions
 - Prometheus (PCA)
-- AI900
+- Kubernetes Application Developer (CKAD) **Renewal**
 <!---
 - [Technology/Framework/Tool]
 - [Another Technology/Framework/Tool]
