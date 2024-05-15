@@ -34,7 +34,9 @@ You can check out my 2024 study and learning goals below,
 - Pass all booked Microsoft Certification
 - Pass the OpenJS Node.js Services Developer **This would be a huge personal achievement**
 - Get followers to future blog posts.
-- **And MORE!!!!.....**[![Notion](https://img.shields.io/badge/study%20goals%202024-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://devopscoder.notion.site/Study-Courses-Certifications-fbea9eea11e64f75824104e1b89a8eb3)
+- **And MORE!!!!.....**
+  
+[![Notion](https://img.shields.io/badge/study%20goals%202024-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://devopscoder.notion.site/Study-Courses-Certifications-fbea9eea11e64f75824104e1b89a8eb3)
 
   
   
