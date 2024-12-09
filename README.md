@@ -3,6 +3,27 @@
 An Azure Cloud Architect who's passionate about tech, coding, music, and anime.
 
 
+### 🌱 I'm currently learning/working towards:
+- AZ-104: Microsoft Azure Administrator
+- AZ-305: Designing Microsoft Azure Infrastructure Solutions
+- Kubernetes Application Developer (CKAD) **Renewal**
+
+### 🎓 Certs Completed 2024
+- PCA: Prometheus Certified Associate
+- CGOA: Certified GitOps Associate
+  
+### 💫 Badges Completed 2024
+- [New Kusto Detective! Lvl 1](https://www.credly.com/org/microsoft-azure-data-explorer/badge/new-kusto-detective)
+- [Cilium Getting Started](https://www.credly.com/org/isovalent/badge/cilium-getting-started)
+- [Cilium Ingress Controller](https://www.credly.com/org/isovalent/badge/cilium-ingress-controller)
+- [Discovery: SecOps Engineer](https://www.credly.com/org/isovalent/badge/discovery-secops-engineer)
+- [Cilium LoadBalancer IPAM and BGP Service Advertisement](https://www.credly.com/org/isovalent/badge/cilium-loadbalancer-ipam-and-bgp-service-advertisement)
+- [Cilium LB-IPAM & L2](https://www.credly.com/org/isovalent/badge/cilium-lb-ipam-l2)
+- [Cilium Cluster Mesh](https://www.credly.com/org/isovalent/badge/cilium-cluster-mesh)
+- [Cilium IPv6 Networking and Observability](https://www.credly.com/org/isovalent/badge/cilium-ipv6-networking-and-observability)
+- [Discovery: Platform Engineer](https://www.credly.com/org/isovalent/badge/discovery-platform-engineer)
+- [Cilium Egress Gateway](https://www.credly.com/org/isovalent/badge/cilium-egress-gateway)
+
 
 ### 📚 Books:
 :book: Currently Reading:
@@ -16,17 +37,6 @@ An Azure Cloud Architect who's passionate about tech, coding, music, and anime.
 --->
 </details>
 
-### 🌱 I'm currently learning/working towards:
-- AZ-104: Microsoft Azure Administrator
-- AZ-305: Designing Microsoft Azure Infrastructure Solutions
-- Kubernetes Application Developer (CKAD) **Renewal**
-
-### 🎓 Certs Completed 2024
-- PCA: Prometheus Certified Associate
-- New Kusto Detective! Lvl 1
-- CGOA: Certified GitOps Associate
-- 
-### 💫 Badges Completed 2024
 <!---
 - [Technology/Framework/Tool]
 - [Another Technology/Framework/Tool]
