@@ -19,12 +19,18 @@ An Azure Cloud Architect who's passionate about tech, coding, music, and anime.
 ### 🌱 I'm currently learning/working towards:
 - AZ-104: Microsoft Azure Administrator
 - AZ-305: Designing Microsoft Azure Infrastructure Solutions
-- Prometheus (PCA)
 - Kubernetes Application Developer (CKAD) **Renewal**
+
+### 🎓 Certs Completed 2024
+- PCA: Prometheus Certified Associate
+- New Kusto Detective! Lvl 1
+- CGOA: Certified GitOps Associate
+- 
+### 💫 Badges Completed 2024
 <!---
 - [Technology/Framework/Tool]
 - [Another Technology/Framework/Tool]
---->dd
+--->
 You can check out my 2024 study and learning goals below,
 
 
