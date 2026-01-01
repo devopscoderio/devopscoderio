@@ -1,12 +1,69 @@
 ## 👋 Hi, I’m @devopscoder.io,
 
-An Azure Cloud Architect who's passionate about tech, coding, music, and anime.
+An Azure Cloud Architect passionate about tech, coding, music, and anime.
+
+> 🛠️ **Platform Engineering • Azure • Kubernetes • Observability • GitOps**  
+> Building scalable, observable platforms with a strong automation mindset.
 
 
-### 🌱 I'm currently learning/working towards:
-- AZ-104: Microsoft Azure Administrator
-- AZ-305: Designing Microsoft Azure Infrastructure Solutions
-- Kubernetes Application Developer (CKAD) **Renewal**
+### 🌱 I'm currently learning / working towards:
+
+<!-- Auto-synced from Study Table (manually maintain the list of items + links in one place below) -->
+
+<details open>
+  <summary><b>Booked / scheduled</b></summary>
+
+  <!-- Anything with an exam date AND not done/passed -->
+  <ul>
+    <li><b>OTCA</b> – OpenTelemetry Certified Associate (Exam: <b>06/04/2026</b>)</li>
+    <li><b>ICA</b> – Istio Certified Associate (Exam: <b>11/07/2026</b>)</li>
+    <li><b>CKA</b> – Certified Kubernetes Administrator (Exam: <b>11/07/2026</b>)</li>
+    <li><b>CKAD</b> – Certified Kubernetes Application Developer <b>(Renewal)</b> (Exam: <b>11/07/2026</b>)</li>
+    <li><b>CKS</b> – Certified Kubernetes Security Specialist (Exam: <b>11/07/2026</b>)</li>
+    <li><b>CAPA</b> – Certified Argo Project Associate (Exam: <b>30/10/2026</b>)</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>In progress</b></summary>
+
+  <!-- Anything explicitly marked In progress -->
+  <ul>
+    <li><b>Scrimba</b> – Front End Development (In progress)</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Planned (no exam date yet)</b></summary>
+
+  <!-- Not started + no exam date -->
+  <ul>
+    <li><b>AZ-104</b> – Microsoft Azure Administrator</li>
+    <li><b>AZ-305</b> – Designing Microsoft Azure Infrastructure Solutions</li>
+    <li><b>AZ-400</b> – Designing & Implementing Microsoft DevOps Solutions</li>
+  </ul>
+</details>
+
+## 📚 Study Table
+
+> **Legend:** ✔ Done • ⏳ In Progress • 💤 Not started • 🧾 Not Taken • 🎉 Passed
+
+| Study Topic | Progress | Status | Platform | Type | Hours | Exam Date | Days Until Exam |
+|------------|----------|--------|----------|------|------:|----------:|----------------:|
+| OpenTelemetry Certified Associate (OTCA) | ![Not started](https://img.shields.io/badge/💤%20Not%20started-grey?style=flat-square) | ![Not Taken](https://img.shields.io/badge/🧾%20Not%20Taken-grey?style=flat-square) | KodeKloud / Linux Foundation | Certification | 18.82 | 06/04/2026 | 94 |
+| Istio Certified Associate (ICA) | ![Not started](https://img.shields.io/badge/💤%20Not%20started-grey?style=flat-square) | ![Not Taken](https://img.shields.io/badge/🧾%20Not%20Taken-grey?style=flat-square) | KodeKloud / Linux Foundation | Certification | 6.98 | 11/07/2026 | 190 |
+| Certified Kubernetes Administrator (CKA) | ![Not started](https://img.shields.io/badge/💤%20Not%20started-grey?style=flat-square) | ![Not Taken](https://img.shields.io/badge/🧾%20Not%20Taken-grey?style=flat-square) | KodeKloud / Linux Foundation | Certification | 25.8 | 11/07/2026 | 190 |
+| Certified Kubernetes Application Developer (CKAD) | ![Not started](https://img.shields.io/badge/💤%20Not%20started-grey?style=flat-square) | ![Not Taken](https://img.shields.io/badge/🧾%20Not%20Taken-grey?style=flat-square) | KodeKloud / Linux Foundation | Certification | 16.02 | 11/07/2026 | 190 |
+| Certified Kubernetes Security Specialist (CKS) | ![Not started](https://img.shields.io/badge/💤%20Not%20started-grey?style=flat-square) | ![Not Taken](https://img.shields.io/badge/🧾%20Not%20Taken-grey?style=flat-square) | KodeKloud / Linux Foundation | Certification | 9.98 | 11/07/2026 | 190 |
+| AZ-400: Designing & Implementing Microsoft DevOps Solutions | ![Not started](https://img.shields.io/badge/💤%20Not%20started-grey?style=flat-square) | ![Not Taken](https://img.shields.io/badge/🧾%20Not%20Taken-grey?style=flat-square) | KodeKloud / Microsoft | Certification | 15.22 | — | — |
+| AZ-104: Microsoft Azure Administrator | ![Not started](https://img.shields.io/badge/💤%20Not%20started-grey?style=flat-square) | ![Not Taken](https://img.shields.io/badge/🧾%20Not%20Taken-grey?style=flat-square) | KodeKloud / Microsoft | Certification | 13.03 | — | — |
+| AZ-305: Microsoft Azure Solutions Architect Expert | ![Not started](https://img.shields.io/badge/💤%20Not%20started-grey?style=flat-square) | ![Not Taken](https://img.shields.io/badge/🧾%20Not%20Taken-grey?style=flat-square) | KodeKloud / Microsoft | Certification | 12.42 | — | — |
+| Certified Argo Project Associate (CAPA) | ![Not started](https://img.shields.io/badge/💤%20Not%20started-grey?style=flat-square) | ![Not Taken](https://img.shields.io/badge/🧾%20Not%20Taken-grey?style=flat-square) | KodeKloud / Linux Foundation | Certification | 7.93 | 30/10/2026 | 301 |
+| Scrimba Front End Development | ![In progress](https://img.shields.io/badge/⏳%20In%20Progress-blue?style=flat-square) | ![Not Taken](https://img.shields.io/badge/🧾%20Not%20Taken-grey?style=flat-square) | Scrimba | Study | 81.6 | — | — |
+| Developing Helm Charts (SC-104) | ![Done](https://img.shields.io/badge/✔%20Done-success?style=flat-square) | ![Passed](https://img.shields.io/badge/🎉%20Passed-success?style=flat-square) | KodeKloud / Linux Foundation | Certification | 4 | 08/12/2025 | -24 |
+
+
+
 
 
 ### 🏅 Badge Wall
@@ -194,34 +251,39 @@ An Azure Cloud Architect who's passionate about tech, coding, music, and anime.
 
 </details>
 
-
 ### 📚 Books:
-:book: Currently Reading:
-- **`The Power of Habit`** [Book](https://www.amazon.co.uk/Power-Habit-Why-What-Change/dp/1847946240) / [Audible](https://www.audible.co.uk/pd/The-Power-of-Habit-Audiobook/B007AK4V62?ipRedirectOverride=true&overrideBaseCountry=true&bp_o=true&source_code=PS1PP30DTRIAL453122123006C&gclid=CjwKCAiAzJOtBhALEiwAtwj8tl82uKSaLuzsXG669qqZxX54aBLKA0bA0w7QqCCTfa2p8MD9IP3s1hoCNMkQAvD_BwE&gclsrc=aw.ds) / [Spotify Audiobook](https://open.spotify.com/show/1dxK3fHqf8C7RpzgxSFmR7?si=92b2ccd1e60648a8)
+📖 **Currently Reading**
+
+- **`Black Box Thinking`**  -    [Amazon Book](https://amzn.to/4puET7W) / [Audible](https://www.audible.co.uk/pd/Black-Box-Thinking-Audiobook/B00WKKAGZ2?eac_link=AhoUa0KXStKr&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B00WKKAGZ2&qid=aBnwXEwl4m&eac_id=262-1404566-8304034_aBnwXEwl4m&sr=1-1) / [Spotify Audiobook](https://open.spotify.com/show/6SO0kONm2MxyzolKXAypoR?si=1bbe1da0dc1244f3)
+
+✅ **Books Completed**
+
+- **`The Power of Habit`**  [Amazon Book](https://amzn.to/3N6Qcp6) /    [Audible](https://www.audible.co.uk/pd/The-Power-of-Habit-Audiobook/B007AK4V62?ipRedirectOverride=true&overrideBaseCountry=true&bp_o=true&source_code=PS1PP30DTRIAL453122123006C&gclid=CjwKCAiAzJOtBhALEiwAtwj8tl82uKSaLuzsXG669qqZxX54aBLKA0bA0w7QqCCTfa2p8MD9IP3s1hoCNMkQAvD_BwE&gclsrc=aw.ds) / 
+  [Spotify Audiobook](https://open.spotify.com/show/1dxK3fHqf8C7RpzgxSFmR7?si=92b2ccd1e60648a8)
 
 <details>
   <summary>Book Backlog</summary>
-<!---
-  - [Book Title 1](link)
-  - [Book Title 2](link)
---->
+
+  - **`The Complete Developer`**   [Amazon Book](https://amzn.to/3KY8hoR)
+
+  - **`Distributed Systems with Node.js`**  - [Amazon Book](https://amzn.to/3L9X8RW)
+
+  - **`Unleashing the Intrapreneur`**  - [Amazon Book]((https://amzn.to/494FhFe))
+
 </details>
 
-<!---
-- [Technology/Framework/Tool]
-- [Another Technology/Framework/Tool]
---->
+
 You can check out my 2024 study and learning goals below,
 
 
-
+<!-- 
 ### 🚀 Goals for this year:
 - Contribute to more open-source projects
 - Pass all booked Microsoft Certification
 - Pass the OpenJS Node.js Services Developer **This would be a huge personal achievement**
 - Get followers to future blog posts.
 - **And MORE!!!!.....**
-  
+   -->
 [![Notion](https://img.shields.io/badge/study%20goals%202024-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://devopscoder.notion.site/Study-Courses-Certifications-fbea9eea11e64f75824104e1b89a8eb3)
 
   
@@ -242,5 +304,6 @@ You can check out my 2024 study and learning goals below,
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devopscoderio&show_icons=true&theme=dark&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devopscoderio&show_icons=true&theme=transparent)
+
 
