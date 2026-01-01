@@ -1,9 +1,9 @@
 ## 👋 Hi, I’m @devopscoder.io,
 
-An Azure Cloud Architect passionate about tech, coding, music, and anime.
+An Azure Cloud Architect and Platform Engineer passionate about building scalable, observable systems — with a growing focus on **end-to-end, full-stack delivery**.
 
 > 🛠️ **Platform Engineering • Azure • Kubernetes • Observability • GitOps**  
-> Building scalable, observable platforms with a strong automation mindset.
+> Building full-stack depth via Scrimba (JS, React, Node.js, Express) to strengthen platform tooling, APIs, and developer experience.
 
 
 ### 🌱 I'm currently learning / working towards:
@@ -73,7 +73,7 @@ An Azure Cloud Architect passionate about tech, coding, music, and anime.
 
 <details>
   <summary><b>Cloud & Core Kubernetes</b></summary>
-  <p align="left">
+  <p align="center">
 <!-- Azure Fundamentals -->
 <a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-fundamentals" target="_blank" rel="noopener noreferrer">
 <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="90"
@@ -95,7 +95,7 @@ An Azure Cloud Architect passionate about tech, coding, music, and anime.
 
 <details>
   <summary><b>Platform Engineering & Developer Experience</b></summary>
-  <p align="left">
+  <p align="center">
 <!-- Certified Backstage Associate -->
 <a href="https://www.credly.com/org/the-linux-foundation/badge/cba-certified-backstage-associate" target="_blank" rel="noopener noreferrer">
 <img src="https://images.credly.com/images/d84e4fb0-dc7f-4d79-b1eb-a8a973da4965/image.png" height="90"
@@ -123,7 +123,7 @@ An Azure Cloud Architect passionate about tech, coding, music, and anime.
 
 <details>
   <summary><b>GitOps, CI/CD & Automation</b></summary>
-  <p align="left">
+  <p align="center">
 <!-- CGOA – Certified GitOps Associate -->
 <a href="https://www.credly.com/org/the-linux-foundation/badge/cgoa-certified-gitops-associate" target="_blank" rel="noopener noreferrer">
 <img src="https://images.credly.com/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png" height="90"
@@ -141,7 +141,7 @@ An Azure Cloud Architect passionate about tech, coding, music, and anime.
 
 <details>
   <summary><b>Observability & Telemetry</b></summary>
-  <p align="left">
+  <p align="center">
 <!-- PCA – Prometheus Certified Associate -->
 <a href="https://www.credly.com/org/the-linux-foundation/badge/pca-prometheus-certified-associate" target="_blank" rel="noopener noreferrer">
 <img src="https://images.credly.com/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" height="90"
@@ -165,7 +165,7 @@ An Azure Cloud Architect passionate about tech, coding, music, and anime.
 
 <details>
   <summary><b>Networking & Service Mesh</b></summary>
-  <p align="left">
+  <p align="center">
 <!-- LFS245 – Istio Service Mesh Essentials -->
 <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs245-istio-service-mesh-essentials" target="_blank" rel="noopener noreferrer">
 <img src="https://images.credly.com/images/e3e2f3ae-5758-4d19-9373-6bcfdfd3cb0a/blob" height="90"
@@ -214,7 +214,7 @@ An Azure Cloud Architect passionate about tech, coding, music, and anime.
 
 <details>
   <summary><b>Security & Responsible AI</b></summary>
-  <p align="left">
+  <p align="center">
 <!-- LFEL1012 – Secure AI/ML-Driven Software Development -->
 <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1012-secure-ai-ml-driven-software-development" target="_blank" rel="noopener noreferrer">
 <img src="https://images.credly.com/images/831b4845-11b7-4449-b157-19743f57107a/blob" height="90"
@@ -235,10 +235,6 @@ An Azure Cloud Architect passionate about tech, coding, music, and anime.
 </details>
 
 
-
-
-
-
 ## 📆 Learning & Certification Timeline
 
 
@@ -247,6 +243,12 @@ An Azure Cloud Architect passionate about tech, coding, music, and anime.
 
 
 <summary><b>2025 wrapped</b></summary>
+
+### 🏆 2025 Wins
+- ✅ Completed **Scrimba – Learn Express.js** (27 Oct 2025 • 4 hours • 58 lessons)
+  - Built REST APIs with Node.js & Express
+  - Strengthened backend fundamentals to support full-stack and platform tooling
+
 
 ### 🎓 Certifications Completed 2025
 - **LFEL1012: Secure AI/ML-Driven Software Development**  
@@ -309,7 +311,7 @@ An Azure Cloud Architect passionate about tech, coding, music, and anime.
 ### 📚 Books:
 📖 **Currently Reading**
 
-- **`Black Box Thinking`**  -    [Amazon Book](https://amzn.to/4puET7W) / [Audible](https://www.audible.co.uk/pd/Black-Box-Thinking-Audiobook/B00WKKAGZ2?eac_link=AhoUa0KXStKr&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B00WKKAGZ2&qid=aBnwXEwl4m&eac_id=262-1404566-8304034_aBnwXEwl4m&sr=1-1) / [Spotify Audiobook](https://open.spotify.com/show/6SO0kONm2MxyzolKXAypoR?si=1bbe1da0dc1244f3)
+- **`Black Box Thinking`**  - [Amazon Book](https://amzn.to/4puET7W) / [Audible](https://www.audible.co.uk/pd/Black-Box-Thinking-Audiobook/B00WKKAGZ2?eac_link=AhoUa0KXStKr&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B00WKKAGZ2&qid=aBnwXEwl4m&eac_id=262-1404566-8304034_aBnwXEwl4m&sr=1-1) / [Spotify Audiobook](https://open.spotify.com/show/6SO0kONm2MxyzolKXAypoR?si=1bbe1da0dc1244f3)
 
 ✅ **Books Completed**
 
@@ -323,7 +325,7 @@ An Azure Cloud Architect passionate about tech, coding, music, and anime.
 
   - **`Distributed Systems with Node.js`**  - [Amazon Book](https://amzn.to/3L9X8RW)
 
-  - **`Unleashing the Intrapreneur`**  - [Amazon Book]((https://amzn.to/494FhFe))
+  - **`Unleashing the Intrapreneur`**  - [Amazon Book](https://amzn.to/494FhFe)
 
 </details>
 
