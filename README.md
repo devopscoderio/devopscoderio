@@ -16,11 +16,7 @@ An Azure Cloud Architect and Platform Engineer passionate about building scalabl
 
   <!-- Anything with an exam date AND not done/passed -->
   <ul>
-    <li><b>OTCA</b> – OpenTelemetry Certified Associate (Exam: <b>06/04/2026</b>)</li>
-    <li><b>ICA</b> – Istio Certified Associate (Exam: <b>11/07/2026</b>)</li>
-    <li><b>CKA</b> – Certified Kubernetes Administrator (Exam: <b>11/07/2026</b>)</li>
-    <li><b>CKAD</b> – Certified Kubernetes Application Developer <b>(Renewal)</b> (Exam: <b>11/07/2026</b>)</li>
-    <li><b>CKS</b> – Certified Kubernetes Security Specialist (Exam: <b>11/07/2026</b>)</li>
+    <li><b>CKA</b> – Certified Kubernetes Administrator (Exam: Soon!!)</li>
     <li><b>CAPA</b> – Certified Argo Project Associate (Exam: <b>30/10/2026</b>)</li>
   </ul>
 </details>
@@ -42,6 +38,10 @@ An Azure Cloud Architect and Platform Engineer passionate about building scalabl
     <li><b>AZ-104</b> – Microsoft Azure Administrator</li>
     <li><b>AZ-305</b> – Designing Microsoft Azure Infrastructure Solutions</li>
     <li><b>AZ-400</b> – Designing & Implementing Microsoft DevOps Solutions</li>
+    <li><b>CKS</b> – Certified Kubernetes Security Specialist </li>
+    <li><b>OTCA</b> – OpenTelemetry Certified Associate </li>
+
+
   </ul>
 </details>
 
@@ -171,6 +171,15 @@ An Azure Cloud Architect and Platform Engineer passionate about building scalabl
 <img src="https://images.credly.com/images/e3e2f3ae-5758-4d19-9373-6bcfdfd3cb0a/blob" height="90"
      alt="LFS245 – Istio Service Mesh Essentials"
      title="LFS245 – Istio Service Mesh Essentials" />
+<!-- ICA – Istio Certified Associate -->
+<a href="https://www.credly.com/org/the-linux-foundation/badge/ica-istio-certified-associate"
+   target="_blank"
+   rel="noopener noreferrer">
+  <img src="https://images.credly.com/images/d7d4ddc8-7df8-4c03-9343-507b51e0ef99/image.png"
+       height="90"
+       alt="ICA – Istio Certified Associate"
+       title="ICA – Istio Certified Associate" />
+</a>
 </a><!-- Cilium Getting Started -->
 <a href="https://www.credly.com/org/isovalent/badge/cilium-getting-started" target="_blank" rel="noopener noreferrer">
 <img src="https://images.credly.com/size/340x340/images/d74820be-3dba-40b9-a254-a8e7381bf63d/tempfile20250605-64-wqikcw.png" height="90"
