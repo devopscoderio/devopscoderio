@@ -130,6 +130,11 @@ An Azure Cloud Architect and Platform Engineer passionate about building scalabl
      alt="CGOA – Certified GitOps Associate"
      title="CGOA – Certified GitOps Associate" />
 </a><!-- LFS169 – Introduction to GitOps -->
+<a href="https://www.credly.com/org/the-linux-foundation/badge/capa-certified-argo-project-associate" target="_blank" rel="noopener noreferrer">
+<img src="https://images.credly.com/size/340x340/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" height="90"
+     alt="CAPA - Certified Argo Project Associate"
+     title="CAPA - Certified Argo Project Associatee" />
+</a><!-- LFS169 – Introduction to GitOps -->
 <a href="https://www.credly.com/org/the-linux-foundation/badge/lfs169-introduction-to-gitops" target="_blank" rel="noopener noreferrer">
 <img src="https://images.credly.com/size/340x340/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob" height="90"
      alt="LFS169 – Introduction to GitOps"
